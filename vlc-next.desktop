@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=VLC NEXT media prime
+
+Exec=/home/$USER/.local/bin/vlc_next.sh
+
+Icon=vlc
+Terminal=false
+Type=Application
